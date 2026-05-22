@@ -1,0 +1,4 @@
+# Ignore local build artifacts
+*.hex
+*.elf
+*.o
